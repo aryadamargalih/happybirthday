@@ -132,10 +132,9 @@ footer p{
   	}
 
   	.jumbotron h3{
-			font-family: "League Spartan", sans-serif;
-			font-optical-sizing: auto;
-			font-weight: 600;
-			font-style: normal;
+			font-family: "Dancing Script", cursive;
+		  font-optical-sizing: auto;
+		  font-weight: 700;
 			line-height: 35px;
 		}
 
